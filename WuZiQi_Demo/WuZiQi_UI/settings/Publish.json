@@ -1,0 +1,15 @@
+{
+	"codeGeneration":{
+		"classNamePrefix":"",
+		"codePath":"F:\\Project\\WuZiQi_Demo\\WuZiQi_Client\\src\\ui\\auto",
+		"codeType":"",
+		"getMemberByName":false,
+		"ignoreNoname":true,
+		"memberNamePrefix":"",
+		"packageName":""
+	},
+	"compressDesc":true,
+	"fileExtension":"fui",
+	"packageCount":2,
+	"path":"F:\\Project\\WuZiQi_Demo\\WuZiQi_Client\\bin\\res\\ui"
+}

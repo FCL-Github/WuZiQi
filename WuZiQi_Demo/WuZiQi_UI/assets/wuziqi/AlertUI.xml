@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <component id="n1_qyau" name="_mask" src="qyau9" xy="0,0" size="750,1334">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <graph id="n0_qyau" name="n0" xy="64,387" size="620,460" type="rect" fillColor="#ff99cc33" corner="30">
+      <relation target="" sidePair="center-center"/>
+    </graph>
+    <component id="n2_qyau" name="btnRestart" src="qyaua" xy="163,697" size="164,82">
+      <relation target="n0_qyau" sidePair="left-left"/>
+      <Button title="重新开始" titleColor="#ffffff" titleFontSize="27" icon="ui://xve4nbyqrjbib"/>
+    </component>
+    <component id="n3_rjbi" name="btnCancel" src="qyaua" xy="421,697" size="164,82">
+      <relation target="n0_qyau" sidePair="right-right"/>
+      <Button title="取消" titleColor="#ffffff" titleFontSize="27" icon="ui://xve4nbyqrjbic"/>
+    </component>
+    <text id="n4_rjbi" name="txtAlert" xy="182,478" size="385,97" font="微软雅黑" fontSize="40" align="center" autoSize="none" text="白子获胜！！！">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+</component>

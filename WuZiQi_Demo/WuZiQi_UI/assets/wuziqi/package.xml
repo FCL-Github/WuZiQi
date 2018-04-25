@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xve4nbyq" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="tecg0" name="Background.xml" path="/" exported="true"/>
+    <component id="tecg1" name="Grid.xml" path="/" exported="true"/>
+    <image id="pswu2" name="bg.jpg" path="/res/" exported="true" scale="9grid" scale9grid="188,5,376,10"/>
+    <image id="mju03" name="1.jpg" path="/res/" exported="true"/>
+    <image id="mju06" name="black.png" path="/res/" exported="true"/>
+    <image id="mju07" name="white.png" path="/res/" exported="true"/>
+    <component id="qyau8" name="AlertUI.xml" path="/" exported="true"/>
+    <component id="qyau9" name="Mask.xml" path="/" exported="true"/>
+    <component id="qyaua" name="Button.xml" path="/" exported="true"/>
+    <image id="rjbib" name="btn_normal_blue.png" path="/res/" exported="true"/>
+    <image id="rjbic" name="btn_normal_orange.png" path="/res/" exported="true"/>
+    <component id="rjbid" name="BtnMusic.xml" path="/" exported="true"/>
+    <image id="rjbie" name="pause.png" path="/res/" exported="true"/>
+    <image id="rjbif" name="play.png" path="/res/" exported="true"/>
+  </resources>
+  <publish name="wuziqi">
+    <atlas name="默认" compression="true" index="0"/>
+    <atlas compression="true" index="1"/>
+    <atlas compression="true" index="2"/>
+    <atlas compression="true" index="3"/>
+    <atlas compression="true" index="4"/>
+    <atlas compression="true" index="5"/>
+    <atlas compression="true" index="6"/>
+    <atlas compression="true" index="7"/>
+    <atlas compression="true" index="8"/>
+    <atlas compression="true" index="9"/>
+    <atlas compression="true" index="10"/>
+  </publish>
+</packageDescription>

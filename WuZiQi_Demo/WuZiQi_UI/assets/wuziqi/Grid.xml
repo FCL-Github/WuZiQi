@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" extention="Button">
+  <displayList>
+    <loader id="n1_mju0" name="icon" xy="5,5" size="40,40" fill="scaleFree">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <graph id="n0_tecg" name="mark" xy="20,20" size="8,8" aspect="true" visible="false" alpha="0.96" type="eclipse" fillColor="#ffff0000">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+  </displayList>
+  <Button mode="Radio"/>
+</component>
